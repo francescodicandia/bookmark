@@ -1,5 +1,5 @@
 # bookmark
-An usefull collection of link
+An useful collection of link
 
 # GitHub
   # Markdown
